@@ -14,7 +14,7 @@ C++ dilinde
 + _structure, union, enum, class (user defined types)_ etiketleri _(tags)_ doğrudan türü niteleyen isimler olarak kullanılabiliyor (C dilinde türü nitelerken _struct_, _union_, _enum_ anahtar sözcüklerinin etiket _(tag)_ ile birlikte kullanılması zorunlu.
 + Programcı tarafından oluşturulan türlerin _(user defined types)_ bir öğeye sahip olması gerekmiyor. _(empty classes)_
 + Fonksiyon tanımlarında fonksiyon parametrelerine isim vermek zorunlu değil (C dilinde zorunlu). C'de de yeni standartlarda bu durum değişiyor.
-+ ```char str[4] = "mert"``` dizi boyutu ile ilk değer veren yazıdaki karater sayısı eşit ise tanım _(definition)_ geçerli değil (C dilinde geçerli).
++ ```char str[4] = "mert"``` dizi boyutu ile ilk değer veren yazıdaki karakter sayısı eşit ise tanım _(definition)_ geçerli değil (C dilinde geçerli).
 + C++ dilinde aritmetik türlerden _enum_ türlerine örtülü dönüşüm yok (C dilinde var).
 + Farklı _enum_ türleri arasında örtülü dönüşüm yok (C dilinde var).
 + _auto_ anahtar sözcüğünün _C_ dilindeki anlamı geçerli değil. _auto_ farklı anlamlarda kullanılıyor _(type deduction)_.
