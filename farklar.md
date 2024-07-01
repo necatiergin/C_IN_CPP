@@ -19,7 +19,8 @@ C++ dilinde
 + Farklı _enum_ türleri arasında örtülü dönüşüm yok (C dilinde var).
 + _auto_ anahtar sözcüğünün _C_ dilindeki anlamı geçerli değil. _auto_ farklı anlamlarda kullanılıyor _(type deduction)_.
 + _C99_ standartları ile C diline eklenen bazı araçlar C++ dilinde yok. _(restrict pointers, compound literals, flexible array members, designated initializers...)_
-+ C dilinde _R Value expression_ olan bazı ifadeler _L value expression_. (_value category_ kurallarında iki dil arasında kural farklılıkları var.)
++ C dilinde _R Value expression_ olan bazı ifadeler _L value expression_. (_value category_ kurallarında iki dil arasında kural farklılıkları var.) Örneğin<br>
+  ön ek ++ ve ön ek -- operatörlerinin oluşturduğu ifadeler C'de R value C++ dilinde L value.
 
 
 
