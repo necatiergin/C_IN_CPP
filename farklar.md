@@ -1,5 +1,5 @@
 C++ dilinde
-+ C dilinde olan _"default function declaration" (implicit function declarations)"_ yok. Tüm isimler _(identifiers)_ bildirilmeli.
++ C dilinde olan _"default function declaration" (implicit function declarations)"_ yok. (Aslında C99 standardı ile C dilinden de kaldırıldı).  Tüm isimler _(identifiers)_ bildirilmeli.
 + C dilinde olan _"implicit int"_ _(örtülü int)_ kuralı geçerli değil. 
 + string literalleri _const char_ diziler. (C dilinde string literalleri _char_ diziler)
 + karakter sabitlerinin _(character literals)_ türü _char_ (C dilinde int).
